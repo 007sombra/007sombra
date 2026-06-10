@@ -63,13 +63,13 @@
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=007sombra&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=swl-maycon&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
 
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=007sombra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swl-maycon&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
 
 
 
